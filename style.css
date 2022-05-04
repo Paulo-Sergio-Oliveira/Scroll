@@ -38,11 +38,6 @@ scroll-page{
     background-color: white;
     border-radius: 5vh;
 }
-#topo{
-    position: absolute;
-    bottom: 15px;
-    right: 25px;
-}
 img{
     width: 200px;
     height: 200px;
@@ -51,4 +46,14 @@ img{
 body{
     background-image: url("Imgs/Morioh.png");
     background-size: cover;
+}
+#caixa{
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+    font-size: 2em;
+    margin: 15px;
+    background-color: white;
+    border-radius: 5vh;
 }
